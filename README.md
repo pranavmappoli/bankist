@@ -18,7 +18,7 @@ Username: jd
 pin     : 2222
 
 
-#######################  Features Implemeted Using Java Script ###########
+# ######################  Features Implemeted Using Java Script ###########
 
 
 ######## User Interface Part #####
