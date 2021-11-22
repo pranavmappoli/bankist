@@ -1,4 +1,4 @@
-# bankist
+# Bankist
 
 
 Bankist is a bank application website that can used to sign in different users account  and having somany features like send money, apply loan, close account with a beautiful interface.
