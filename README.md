@@ -17,11 +17,11 @@ pin     : 2222
 
 #####################  User Interface Part ############
 
-1 : Smooth Scroll
-2 : Tabbed component
-3 : Sticky navigation Bar
-4 : Lazy Image loading and optimization
-5 : Reveal Sections on Scroll
+#1 : Smooth Scroll
+#2 : Tabbed component
+#3 : Sticky navigation Bar
+#4 : Lazy Image loading and optimization
+#5 : Reveal Sections on Scroll
 
 #####################  Banking Application Part ############
 
