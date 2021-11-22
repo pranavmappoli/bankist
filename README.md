@@ -1,7 +1,7 @@
 # Bankist
 
 
-Bankist is a bank application website that can used to sign in different users account  and having somany features like send money, apply loan, close account with a beautiful interface.
+Bankist is a bank application website where user can sign in to their users account and having somany features like send money, apply loan, close account with a beautiful interface
 
 ######## user can sign using Dummy user profile
 
