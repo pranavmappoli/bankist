@@ -18,10 +18,10 @@ Username: jd
 pin     : 2222
 
 
-## #####################  Features Implemeted Using Java Script ###########
+#### ###################  Features Implemeted Using Java Script ###########
 
 
-######## User Interface Part #####
+###### ## User Interface Part #####
 
 #1 : Smooth Scroll
 
@@ -33,7 +33,7 @@ pin     : 2222
 
 #5 : Reveal Sections on Scroll
 
-######## Banking Application Part #####
+##### ### Banking Application Part #####
 
 
 ![Bankist-flowchart](https://user-images.githubusercontent.com/25036043/142923193-06e1362d-1edb-49e3-9351-f74b78b06ae0.png)
